@@ -1,0 +1,9 @@
+This is an importer for moving your articles to Readability from Instapaper.
+I wrote this in PHP and jQuery.
+
+This also uses the OAuth PHP library http://oauth.googlecode.com/svn/code/php/
+and Resty https://github.com/fictivekin/Resty.php
+
+Upload to your server and update configure.php with your Readability API details.
+
+A live version of this is on http://j4vi.com/readability-importer
